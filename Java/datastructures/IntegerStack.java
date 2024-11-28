@@ -3,7 +3,7 @@ package datastructures;
 public class IntegerStack {
     private int[] stack;
     private int top;
-    private int size;
+    private final int size;
 
     public IntegerStack(int size){
         this.size = size;
