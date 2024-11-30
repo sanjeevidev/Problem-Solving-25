@@ -1,3 +1,4 @@
+// Remove duplicate character 
 import java.util.Stack;
 class Remove_Duplicates {
     public String removeDuplicates(String s) {
